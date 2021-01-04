@@ -1,0 +1,3 @@
+apply plagin: 'java'
+apply plagin: 'application'
+mainClassName = 'Main'
